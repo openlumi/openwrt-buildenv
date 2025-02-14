@@ -9,7 +9,6 @@ libncurses5-dev
 libz-dev
 patch
 python3
-python2.7
 unzip
 zlib1g-dev
 lib32gcc-s1
