@@ -9,7 +9,7 @@ libncurses5-dev
 libz-dev
 patch
 python3
-python3-distutils
+python3-setuptools
 unzip
 zlib1g-dev
 lib32gcc-s1
